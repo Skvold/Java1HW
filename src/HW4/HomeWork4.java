@@ -32,7 +32,7 @@ public class HomeWork4 {
                 aiTurn();
                 printMap();
                 if (checkWin(DOT_O)) {
-                    System.out.println("Победил Искуственный Интеллект");
+                    System.out.println("Победил ИИ");
                     break;
                 }
                 if (isMapFull()) {
